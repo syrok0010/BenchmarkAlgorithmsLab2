@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang='en'>
+<head>
+<meta charset='utf-8' />
+<title>Benchy-20240430-234900</title>
+
+<style type="text/css">
+	table { border-collapse: collapse; display: block; width: 100%; overflow: auto; }
+	td, th { padding: 6px 13px; border: 1px solid #ddd; text-align: right; }
+	tr { background-color: #fff; border-top: 1px solid #ccc; }
+	tr:nth-child(even) { background: #f8f8f8; }
+</style>
+</head>
+<body>
+<pre><code>
+BenchmarkDotNet v0.13.12, Arch Linux
+AMD Ryzen 9 5980HX with Radeon Graphics, 1 CPU, 16 logical and 8 physical cores
+.NET SDK 8.0.104
+  [Host]     : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+  DefaultJob : .NET 8.0.4 (8.0.424.16909), X64 RyuJIT AVX2
+</code></pre>
+<pre><code></code></pre>
+
+<table>
+<thead><tr><th>Method   </th><th>I</th><th>Mean      </th><th>Error    </th><th>StdDev   </th><th>Median    </th><th>Allocated</th>
+</tr>
+</thead><tbody><tr><td>Query_Naive</td><td>1</td><td>30,537.5 ns</td><td>599.15 ns</td><td>615.29 ns</td><td>30,727.6 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>1</td><td>7,592.9 ns</td><td>22.24 ns</td><td>19.71 ns</td><td>7,589.7 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>1</td><td>881.8 ns</td><td>35.90 ns</td><td>105.29 ns</td><td>849.1 ns</td><td>2992 B</td>
+</tr><tr><td>Query_Tree</td><td>1</td><td>8,562.6 ns</td><td>171.24 ns</td><td>183.22 ns</td><td>8,629.0 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>1</td><td>1,406.8 ns</td><td>28.18 ns</td><td>83.10 ns</td><td>1,366.7 ns</td><td>5328 B</td>
+</tr><tr><td>Query_Naive</td><td>2</td><td>32,453.8 ns</td><td>527.39 ns</td><td>440.40 ns</td><td>32,291.7 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>2</td><td>9,849.3 ns</td><td>52.67 ns</td><td>49.27 ns</td><td>9,840.8 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>2</td><td>1,384.8 ns</td><td>13.59 ns</td><td>10.61 ns</td><td>1,384.2 ns</td><td>5008 B</td>
+</tr><tr><td>Query_Tree</td><td>2</td><td>10,805.8 ns</td><td>167.53 ns</td><td>139.90 ns</td><td>10,773.2 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>2</td><td>2,478.1 ns</td><td>48.11 ns</td><td>69.00 ns</td><td>2,460.2 ns</td><td>8864 B</td>
+</tr><tr><td>Query_Naive</td><td>3</td><td>45,852.7 ns</td><td>869.94 ns</td><td>2,214.27 ns</td><td>45,383.3 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>3</td><td>10,478.9 ns</td><td>127.25 ns</td><td>112.80 ns</td><td>10,439.9 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>3</td><td>2,265.6 ns</td><td>15.70 ns</td><td>14.68 ns</td><td>2,270.8 ns</td><td>6424 B</td>
+</tr><tr><td>Query_Tree</td><td>3</td><td>10,358.9 ns</td><td>22.72 ns</td><td>20.14 ns</td><td>10,358.1 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>3</td><td>3,914.9 ns</td><td>77.66 ns</td><td>129.75 ns</td><td>3,864.5 ns</td><td>13032 B</td>
+</tr><tr><td>Query_Naive</td><td>4</td><td>67,358.7 ns</td><td>911.61 ns</td><td>852.72 ns</td><td>67,406.1 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>4</td><td>11,806.6 ns</td><td>226.94 ns</td><td>222.89 ns</td><td>11,783.9 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>4</td><td>5,602.8 ns</td><td>110.16 ns</td><td>126.86 ns</td><td>5,589.7 ns</td><td>13472 B</td>
+</tr><tr><td>Query_Tree</td><td>4</td><td>12,445.1 ns</td><td>40.61 ns</td><td>31.71 ns</td><td>12,448.6 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>4</td><td>8,267.1 ns</td><td>162.42 ns</td><td>227.69 ns</td><td>8,215.4 ns</td><td>25584 B</td>
+</tr><tr><td>Query_Naive</td><td>5</td><td>104,535.7 ns</td><td>851.44 ns</td><td>796.43 ns</td><td>104,246.4 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>5</td><td>14,219.6 ns</td><td>275.26 ns</td><td>294.53 ns</td><td>14,130.6 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>5</td><td>28,833.1 ns</td><td>452.80 ns</td><td>423.55 ns</td><td>28,779.2 ns</td><td>34456 B</td>
+</tr><tr><td>Query_Tree</td><td>5</td><td>14,517.2 ns</td><td>287.03 ns</td><td>294.75 ns</td><td>14,505.2 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>5</td><td>16,200.7 ns</td><td>320.89 ns</td><td>724.30 ns</td><td>16,057.5 ns</td><td>51640 B</td>
+</tr><tr><td>Query_Naive</td><td>6</td><td>206,523.5 ns</td><td>3,696.40 ns</td><td>3,457.61 ns</td><td>207,038.3 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>6</td><td>17,875.3 ns</td><td>355.27 ns</td><td>531.76 ns</td><td>17,762.1 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>6</td><td>166,627.9 ns</td><td>1,054.47 ns</td><td>880.53 ns</td><td>166,638.8 ns</td><td>99520 B</td>
+</tr><tr><td>Query_Tree</td><td>6</td><td>17,612.1 ns</td><td>303.91 ns</td><td>337.79 ns</td><td>17,604.8 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>6</td><td>34,339.1 ns</td><td>654.02 ns</td><td>1,664.70 ns</td><td>34,532.5 ns</td><td>106736 B</td>
+</tr><tr><td>Query_Naive</td><td>7</td><td>354,511.8 ns</td><td>6,537.78 ns</td><td>5,795.57 ns</td><td>356,162.1 ns</td><td>136000 B</td>
+</tr><tr><td>Query_Map</td><td>7</td><td>20,084.8 ns</td><td>23.85 ns</td><td>21.14 ns</td><td>20,081.6 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>7</td><td>1,192,867.9 ns</td><td>3,284.27 ns</td><td>2,911.42 ns</td><td>1,192,504.0 ns</td><td>319577 B</td>
+</tr><tr><td>Query_Tree</td><td>7</td><td>21,938.2 ns</td><td>108.40 ns</td><td>96.09 ns</td><td>21,913.3 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>7</td><td>75,243.0 ns</td><td>1,012.23 ns</td><td>897.32 ns</td><td>75,481.8 ns</td><td>222936 B</td>
+</tr><tr><td>Query_Naive</td><td>8</td><td>675,293.4 ns</td><td>2,535.68 ns</td><td>2,371.88 ns</td><td>676,081.9 ns</td><td>136001 B</td>
+</tr><tr><td>Query_Map</td><td>8</td><td>23,530.6 ns</td><td>59.27 ns</td><td>49.49 ns</td><td>23,526.9 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>8</td><td>9,621,767.1 ns</td><td>172,212.50 ns</td><td>223,924.90 ns</td><td>9,541,621.0 ns</td><td>1119335 B</td>
+</tr><tr><td>Query_Tree</td><td>8</td><td>26,604.4 ns</td><td>302.42 ns</td><td>268.09 ns</td><td>26,575.8 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>8</td><td>149,940.9 ns</td><td>2,136.10 ns</td><td>1,998.11 ns</td><td>149,639.6 ns</td><td>465360 B</td>
+</tr><tr><td>Query_Naive</td><td>9</td><td>1,256,790.2 ns</td><td>3,131.08 ns</td><td>2,775.62 ns</td><td>1,257,611.6 ns</td><td>136001 B</td>
+</tr><tr><td>Query_Map</td><td>9</td><td>26,158.3 ns</td><td>27.56 ns</td><td>23.01 ns</td><td>26,158.6 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>9</td><td>72,737,969.1 ns</td><td>73,444.06 ns</td><td>57,340.29 ns</td><td>72,738,115.2 ns</td><td>4149438 B</td>
+</tr><tr><td>Query_Tree</td><td>9</td><td>32,329.1 ns</td><td>73.85 ns</td><td>65.46 ns</td><td>32,303.4 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>9</td><td>342,250.7 ns</td><td>4,688.51 ns</td><td>4,385.63 ns</td><td>340,714.2 ns</td><td>971080 B</td>
+</tr><tr><td>Query_Naive</td><td>10</td><td>2,613,662.5 ns</td><td>6,420.41 ns</td><td>5,691.53 ns</td><td>2,612,181.1 ns</td><td>136003 B</td>
+</tr><tr><td>Query_Map</td><td>10</td><td>27,991.1 ns</td><td>178.79 ns</td><td>167.24 ns</td><td>28,016.7 ns</td><td>-</td>
+</tr><tr><td>Precompute_Map</td><td>10</td><td>521,029,838.7 ns</td><td>3,185,033.21 ns</td><td>2,979,282.04 ns</td><td>519,679,114.0 ns</td><td>15898256 B</td>
+</tr><tr><td>Query_Tree</td><td>10</td><td>44,963.0 ns</td><td>168.04 ns</td><td>157.18 ns</td><td>44,938.3 ns</td><td>-</td>
+</tr><tr><td>Precompute_Tree</td><td>10</td><td>866,676.0 ns</td><td>10,094.29 ns</td><td>8,429.19 ns</td><td>869,250.3 ns</td><td>2022273 B</td>
+</tr></tbody></table>
+</body>
+</html>

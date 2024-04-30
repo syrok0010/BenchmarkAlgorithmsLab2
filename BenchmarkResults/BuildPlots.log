@@ -1,0 +1,1062 @@
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-boxplot.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-barplot.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=1-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=2-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=3-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=5-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=6-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=7-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=8-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=9-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-I=10-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=1-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=1-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=1-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=2-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=2-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=2-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=3-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=3-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=3-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=4-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=4-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=5-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=5-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=5-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=6-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=6-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=6-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=7-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=7-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=7-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=8-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=8-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=8-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=9-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=9-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=9-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=10-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=10-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=10-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-DefaultJob I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-facetTimeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Naive-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=1-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=2-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=3-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=5-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=6-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=7-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=8-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=9-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-I=10-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=1-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=1-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=1-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=2-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=2-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=2-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=3-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=3-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=3-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=4-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=4-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=5-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=5-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=5-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=6-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=6-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=6-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=7-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=7-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=7-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=8-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=8-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=8-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=9-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=9-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=9-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=10-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=10-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=10-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-DefaultJob I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-facetTimeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Map-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=1-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=2-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=3-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=5-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=6-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=7-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=8-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=9-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-I=10-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=1-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=1-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=1-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=2-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=2-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=2-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=3-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=3-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=3-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=4-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=4-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=5-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=5-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=5-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=6-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=6-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=6-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=7-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=7-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=7-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=8-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=8-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=8-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=9-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=9-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=9-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=10-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=10-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=10-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-DefaultJob I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-facetTimeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Map-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=1-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=2-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=3-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=5-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=6-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=7-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=8-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=9-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-I=10-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=1-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=1-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=1-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=2-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=2-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=2-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=3-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=3-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=3-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=4-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=4-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=5-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=5-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=5-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=6-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=6-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=6-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=7-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=7-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=7-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=8-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=8-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=8-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=9-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=9-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=9-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=10-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=10-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=10-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-DefaultJob I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-facetTimeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Query_Tree-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=1-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=2-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=3-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=4-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=5-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=6-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=7-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=8-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=9-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-I=10-facetDensity.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=1-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=1-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=1-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=1-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=2-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=2-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=2-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=2-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=3-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=3-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=3-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=3-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=4-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=4-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=4-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=4-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=5-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=5-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=5-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=5-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=6-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=6-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=6-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=6-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=7-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=7-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=7-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=7-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=8-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=8-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=8-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=8-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=9-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=9-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=9-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=9-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=10-timeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=10-timelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=10-cummean.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-DefaultJob I=10-density.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-facetTimeline.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-facetTimelineSmooth.png ***
+------------------------------
+*** Plot: /home/syrok/RiderProjects/Practice/bin/Release/net8.0/BenchmarkDotNet.Artifacts/results/Benchy-Precompute_Tree-cummean.png ***
+------------------------------
+Attaching package: ‘dplyr’
+The following objects are masked from ‘package:stats’:
+    filter, lag
+The following objects are masked from ‘package:base’:
+    intersect, setdiff, setequal, union
+Attaching package: ‘gdata’
+The following objects are masked from ‘package:dplyr’:
+    combine, first, last, starts_with
+The following object is masked from ‘package:stats’:
+    nobs
+The following object is masked from ‘package:utils’:
+    object.size
+The following object is masked from ‘package:base’:
+    startsWith
+Attaching package: ‘tidyr’
+The following object is masked from ‘package:gdata’:
+    starts_with
+Attaching package: ‘gridExtra’
+The following object is masked from ‘package:gdata’:
+    combine
+The following object is masked from ‘package:dplyr’:
+    combine
+R.devices v2.17.2 (2024-01-29 13:30:11 UTC) successfully loaded. See ?R.devices for help.
+`summarise()` has grouped output by 'Target_Method'. You can override using the
+`.groups` argument.
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+Saving 7 x 7 in image
+`geom_smooth()` using method = 'loess' and formula = 'y ~ x'
+Saving 7 x 7 in image
+There were 50 or more warnings (use warnings() to see the first 50)
